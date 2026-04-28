@@ -1,6 +1,6 @@
 # Calculadora JavaScript
 
-Uma calculadora funcional e responsiva desenvolvida com foco em semântica, acessibilidade e design intuitivo. Este projeto foi criado para aplicar conhecimentos em lógica de programação e manipulação de eventos no DOM.
+Uma calculadora funcional e responsiva desenvolvida com foco em semântica, acessibilidade e design intuitivo. Este projeto foi criado para aplicar conhecimentos em lógica de programação.
 
 
 
