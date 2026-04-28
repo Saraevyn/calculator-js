@@ -31,10 +31,4 @@ O projeto está publicado e pode ser acessado através do link abaixo:
 
 ---
 
-### 🎨 Diferenciais do Projeto
-* **Acessibilidade:** Uso de tags apropriadas para facilitar a navegação.
-* **Interface:** Estilo limpo e botões com feedback visual.
-* **Organização:** Código separado em arquivos específicos (`script.js`, `styles.css`) para melhor manutenção.
-
----
 Desenvolvido por [Sara Duarte](https://github.com/sara-duarte)
